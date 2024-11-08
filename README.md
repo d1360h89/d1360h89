@@ -1,7 +1,7 @@
 # Olá, sou Diego Almeida
 
 ## Sobre Mim
- - Sou um estudante de Análise e Desenvolvimento de Sistemas, apaixonado por tecnologia e programação. 
+ - Estudante de Power Platform, admirador de tecnologia e programação. 
  - Atualmente, moro em Curitiba, Paraná.
 
 ## Contato
